@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0fd2f7a8.chunk.css",
+    "main.js": "/static/js/main.650faea6.chunk.js",
+    "main.js.map": "/static/js/main.650faea6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.bc01f412.js",
+    "runtime-main.js.map": "/static/js/runtime-main.bc01f412.js.map",
+    "static/js/2.7d2309d1.chunk.js": "/static/js/2.7d2309d1.chunk.js",
+    "static/js/2.7d2309d1.chunk.js.map": "/static/js/2.7d2309d1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e3c92a68a1b4d03d0d39300222c7ed5e.js": "/precache-manifest.e3c92a68a1b4d03d0d39300222c7ed5e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.0fd2f7a8.chunk.css.map": "/static/css/main.0fd2f7a8.chunk.css.map",
+    "static/js/2.7d2309d1.chunk.js.LICENSE.txt": "/static/js/2.7d2309d1.chunk.js.LICENSE.txt",
+    "static/media/Fairuz-kun_logo_2018_2.png": "/static/media/Fairuz-kun_logo_2018_2.c1d31aa4.png",
+    "static/media/Fairuz-kun_logo_2020_4_512px.png": "/static/media/Fairuz-kun_logo_2020_4_512px.32788121.png",
+    "static/media/FakeAnime_001.jpg": "/static/media/FakeAnime_001.32e90642.jpg",
+    "static/media/Fanart_Cytus II_Æsir_1080p.png": "/static/media/Fanart_Cytus II_Æsir_1080p.0b3b86fc.png",
+    "static/media/Frbdn_timeline_1080p.jpg": "/static/media/Frbdn_timeline_1080p.6ccd3f95.jpg",
+    "static/media/Furubi_06.png": "/static/media/Furubi_06.74f0c7ef.png",
+    "static/media/Logitech_F.png": "/static/media/Logitech_F.2dc3e9a7.png",
+    "static/media/App.css": "/static/media/fairu-zu_project_X7_RGB.06e3b14c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc01f412.js",
+    "static/js/2.7d2309d1.chunk.js",
+    "static/css/main.0fd2f7a8.chunk.css",
+    "static/js/main.650faea6.chunk.js"
+  ]
+}
