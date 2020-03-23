@@ -1,18 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.9279d183.chunk.css",
-    "main.js": "/static/js/main.f561ca0e.chunk.js",
-    "main.js.map": "/static/js/main.f561ca0e.chunk.js.map",
+    "main.js": "/static/js/main.b4480295.chunk.js",
+    "main.js.map": "/static/js/main.b4480295.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.959b4b4d.js",
     "runtime-main.js.map": "/static/js/runtime-main.959b4b4d.js.map",
     "static/js/2.3259d60a.chunk.js": "/static/js/2.3259d60a.chunk.js",
     "static/js/2.3259d60a.chunk.js.map": "/static/js/2.3259d60a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.33a11ea59e2a944bbb9ea7fc87472dbc.js": "/precache-manifest.33a11ea59e2a944bbb9ea7fc87472dbc.js",
+    "precache-manifest.55216bac752d63c1b9fc34b247f6b931.js": "/precache-manifest.55216bac752d63c1b9fc34b247f6b931.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.9279d183.chunk.css.map": "/static/css/main.9279d183.chunk.css.map",
     "static/js/2.3259d60a.chunk.js.LICENSE.txt": "/static/js/2.3259d60a.chunk.js.LICENSE.txt",
-    "static/media/Fairuz-kun_logo_2018_2.png": "/static/media/Fairuz-kun_logo_2018_2.c1d31aa4.png",
     "static/media/Fairuz-kun_logo_2020_4_512px.png": "/static/media/Fairuz-kun_logo_2020_4_512px.32788121.png",
     "static/media/FakeAnime_001.jpg": "/static/media/FakeAnime_001.7dbcb9b2.jpg",
     "static/media/Fanart_5toubun_yotsuba.jpg": "/static/media/Fanart_5toubun_yotsuba.6cc22b3f.jpg",
@@ -28,6 +27,6 @@
     "static/js/runtime-main.959b4b4d.js",
     "static/js/2.3259d60a.chunk.js",
     "static/css/main.9279d183.chunk.css",
-    "static/js/main.f561ca0e.chunk.js"
+    "static/js/main.b4480295.chunk.js"
   ]
 }

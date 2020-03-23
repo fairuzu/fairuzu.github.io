@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7756c3eee53079cb155e529d1ec09355",
+    "revision": "aab98a4390c245ff3d385da21abba0d3",
     "url": "/index.html"
   },
   {
-    "revision": "09ce2938b26fb6d4a966",
+    "revision": "355a884d551623a96cd1",
     "url": "/static/css/main.9279d183.chunk.css"
   },
   {
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.3259d60a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "09ce2938b26fb6d4a966",
-    "url": "/static/js/main.f561ca0e.chunk.js"
+    "revision": "355a884d551623a96cd1",
+    "url": "/static/js/main.b4480295.chunk.js"
   },
   {
     "revision": "541cbbcdedce3c3f89e0",
     "url": "/static/js/runtime-main.959b4b4d.js"
-  },
-  {
-    "revision": "c1d31aa42686488b1d2c21f18b6df730",
-    "url": "/static/media/Fairuz-kun_logo_2018_2.c1d31aa4.png"
   },
   {
     "revision": "327881215df3d28ca39939fc848dbb09",
