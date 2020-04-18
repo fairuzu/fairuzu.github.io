@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.9279d183.chunk.css",
-    "main.js": "/static/js/main.f359dcef.chunk.js",
-    "main.js.map": "/static/js/main.f359dcef.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.959b4b4d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.959b4b4d.js.map",
-    "static/js/2.3259d60a.chunk.js": "/static/js/2.3259d60a.chunk.js",
-    "static/js/2.3259d60a.chunk.js.map": "/static/js/2.3259d60a.chunk.js.map",
+    "main.css": "/static/css/main.350d6e63.chunk.css",
+    "main.js": "/static/js/main.b77d74fb.chunk.js",
+    "main.js.map": "/static/js/main.b77d74fb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ef100537.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ef100537.js.map",
+    "static/js/2.af35aae0.chunk.js": "/static/js/2.af35aae0.chunk.js",
+    "static/js/2.af35aae0.chunk.js.map": "/static/js/2.af35aae0.chunk.js.map",
+    "static/js/3.cca20d25.chunk.js": "/static/js/3.cca20d25.chunk.js",
+    "static/js/3.cca20d25.chunk.js.map": "/static/js/3.cca20d25.chunk.js.map",
+    "static/js/4.0bf990b8.chunk.js": "/static/js/4.0bf990b8.chunk.js",
+    "static/js/4.0bf990b8.chunk.js.map": "/static/js/4.0bf990b8.chunk.js.map",
+    "static/js/5.d1739bcc.chunk.js": "/static/js/5.d1739bcc.chunk.js",
+    "static/js/5.d1739bcc.chunk.js.map": "/static/js/5.d1739bcc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.70bcf2e5c29bcb3086416999c84e71ad.js": "/precache-manifest.70bcf2e5c29bcb3086416999c84e71ad.js",
+    "precache-manifest.a670f7e426521566cc0f44ff41aba56e.js": "/precache-manifest.a670f7e426521566cc0f44ff41aba56e.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9279d183.chunk.css.map": "/static/css/main.9279d183.chunk.css.map",
-    "static/js/2.3259d60a.chunk.js.LICENSE.txt": "/static/js/2.3259d60a.chunk.js.LICENSE.txt",
+    "static/css/main.350d6e63.chunk.css.map": "/static/css/main.350d6e63.chunk.css.map",
+    "static/js/2.af35aae0.chunk.js.LICENSE.txt": "/static/js/2.af35aae0.chunk.js.LICENSE.txt",
     "static/media/Fairuz-kun_logo_2020_4_512px.png": "/static/media/Fairuz-kun_logo_2020_4_512px.32788121.png",
     "static/media/FakeAnime_001.jpg": "/static/media/FakeAnime_001.7dbcb9b2.jpg",
     "static/media/Fanart_5toubun_yotsuba.jpg": "/static/media/Fanart_5toubun_yotsuba.6cc22b3f.jpg",
@@ -24,9 +30,9 @@
     "static/media/App.css": "/static/media/fairu-zu_project_X7_RGB.06e3b14c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.959b4b4d.js",
-    "static/js/2.3259d60a.chunk.js",
-    "static/css/main.9279d183.chunk.css",
-    "static/js/main.f359dcef.chunk.js"
+    "static/js/runtime-main.ef100537.js",
+    "static/js/2.af35aae0.chunk.js",
+    "static/css/main.350d6e63.chunk.css",
+    "static/js/main.b77d74fb.chunk.js"
   ]
 }
